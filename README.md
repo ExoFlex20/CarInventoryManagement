@@ -1,3 +1,8 @@
+# PROJECT FOR CC105 and DC101 
+
+Jinlord Patrick B. Fule
+BSCS 2C
+
 # Car Parts Inventory System
 
 Web-based inventory for automotive parts. Built with PHP + MySQL (XAMPP stack) and a lightweight HTML/CSS/JS frontend.
